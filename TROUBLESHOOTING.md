@@ -42,6 +42,6 @@
   1. parse mv packets.
   2. parse each recipe by clicking on them in game.
 
-# Unexpected behavior #
+# Unexpected behavio1r #
 - If project behaves unstable/improperly or something is off try to open a new issue explaining in details your problem with server
 - You can also contact us on [our discord server](https://discordapp.com/invite/N8eqPUh).
